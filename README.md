@@ -5,15 +5,14 @@ this project structure
 Ratecompanies
 
 `
-|
-|_ public
-|_ src 
-  |_ companyComponent
-  | |_ Company.js
-  |
-  |_ app.js
-  |_ index.js
-  |_ index.css
+|<br>
+|_ public<br>
+|_ src<br>
+  |_ companyComponent<br>
+  | |_ Company.js<br>
+  |<br>
+  |_ app.js<br<br>
+  |_ index.css<br>
   `
   <br>
   You can easily access the CompanyCompnent and edit the React state on which on our counts depends on. I am not saving the changes at this moment and I will be 
